@@ -50,7 +50,7 @@ grails.project.dependency.resolution = {
         runtime ":resources:1.2"
         runtime ':twitter-bootstrap:2.3.2'
         compile ":spring-security-core:1.2.7.3"
-
+        compile ":mail:1.0.1"
         // Uncomment these (or add new ones) to enable additional resources capabilities
         //runtime ":zipped-resources:1.0"
         //runtime ":cached-resources:1.0"
